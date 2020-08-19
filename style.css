@@ -1,0 +1,51 @@
+input[type="text"], input[type="password"], input[type="email"]{
+	border: 1px solid dashed;
+	background-color: rgb(221, 216, 212);
+	width: 480px;
+	padding: 0.5em;
+	font-size: 1.0em;
+
+}
+
+input[type= "Submit"] {
+	color: white;
+	font-size: 1.0em;
+	font-family: Bitter,Georgia,Times, "Times New Roman",serif;
+	width: 200px;
+	height: 40px;
+	background-color: #ff00ff;
+	border: 5px solid;
+	border-bottom-left-radius: 35px;
+	border-bottom-right-radius: 35px;
+	border-top-left-radius: 35px;
+	border-top-right-radius: 35px;
+	border-color: rgb(221, 216, 212);
+	font-weight: bold;
+	float: right;
+	margin-top: 10px;
+}
+
+div#centerpage{
+	width: 500px;
+	margin: 0 auto;
+}
+.FieldInfo{
+	color: rgb(98, 54, 159);
+	font-family: Bitter,Georgia,Times, "Times New Roman",serif;
+	font-size: 1em;
+}
+div.message{
+	border: 2px solid #c0c0c0;
+	padding-top: 1em;
+	color: White;
+	font-weight: bold;
+	background-color: #00dddd;
+	font-size: 1em;
+	margin: 0 auto;
+	width: 400px;
+	height: 40px;
+	text-align: center;
+	margin-bottom: 1em;
+	
+
+}
